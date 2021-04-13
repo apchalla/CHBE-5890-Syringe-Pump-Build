@@ -2,7 +2,7 @@
 
 ## Bill of Materials
 
-Item         | Quantity
+First Header | Second Header
 ------------ | -------------
-[Aluminum Extrusion--1 ft.] (https://www.mcmaster.com/47065T107/) | 1
-[Linear Bearing--8 mm.] (https://www.mcmaster.com/61205K75/)| 1
+[Aluminum Extrusion] (www.google.com) | Content from cell 2
+Content in the first column | Content in the second column
