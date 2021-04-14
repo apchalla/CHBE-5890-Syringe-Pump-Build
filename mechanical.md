@@ -11,6 +11,12 @@ Item | Quantity
 -----|-----
 [Aluminum Extrusion (1 ft.)](https://www.mcmaster.com/47065T107/)| 1
 [Linear Bearing (8 mm.)](https://www.mcmaster.com/61205K75/)| 1
+[Stepper Motor: DCNC-NEMA17-0.5NM](https://www.amazon.com/MOONS-Stepper-Stepping-Cable00723-MS17HD2P4150/dp/B07G479LGL)| 1
+[M8 x 1.25 mm. Threaded Rod](https://www.mcmaster.com/1078N32/)| 1
+[8 mm. Linear Rod](https://www.mcmaster.com/6112K44/)| 1
+[M8 Hex Nut](https://www.mcmaster.com/90592A022/)| 1
+[T Nut and Bolt](https://www.mcmaster.com/47065T139/)| 6
+[5 mm./8 mm. Shaft Coupler](https://www.mcmaster.com/shaft-couplers/)| 1
 
 
 ## Fusion 360 Model
