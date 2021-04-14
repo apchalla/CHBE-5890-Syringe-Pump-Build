@@ -1,9 +1,9 @@
-# Mechanical Assembly for Syringe Pump
-
 - [Home](/CHBE-5890-Syringe-Pump-Build/index)
 - **[Mechanical](/CHBE-5890-Syringe-Pump-Build/mechanical)**
 - [Electrical](/CHBE-5890-Syringe-Pump-Build/electrical)
 - [Code](/CHBE-5890-Syringe-Pump-Build/code)
+
+# Mechanical Assembly for Syringe Pump
 
 ## Bill of Materials
 
