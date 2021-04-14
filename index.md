@@ -1,7 +1,10 @@
 # How to Build a Syringe Pump
 
-See mechanical page [here](/CHBE-5890-Syringe-Pump-Build/mechanical)
+- **[Home](/CHBE-5890-Syringe-Pump-Build/index)**
+- [Mechanical](/CHBE-5890-Syringe-Pump-Build/mechanical)
+- [Electrical](/CHBE-5890-Syringe-Pump-Build/electrical)
+- [Code](/CHBE-5890-Syringe-Pump-Build/code)
 
-See electrical page [here](/CHBE-5890-Syringe-Pump-Build/electrical)
+Specifications for the syringe pump (syringe size and associatied fluid capacity, steps per mL, max flow rate)
 
-See code page [here](/CHBE-5890-Syringe-Pump-Build/code)
+Reasons why you should build and program your own pump
