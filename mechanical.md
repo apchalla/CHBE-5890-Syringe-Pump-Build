@@ -18,6 +18,7 @@ Item | Quantity
 [T Nut and Bolt](https://www.mcmaster.com/47065T139/)| 6
 [5 mm./8 mm. Shaft Coupler](https://www.mcmaster.com/shaft-couplers/)| 1
 
+Fabricated pieces in the assembly included the stepper motor mount, plunger driver, syringe barrel holder, and syringe tip holder, which were dimensioned to fit the manufactured pieces above (and a 19 mm.-diameter syringe). Measurements of fabricated pieces are available from our Fusion 360 model below.
 
 ## Fusion 360 Model
 
