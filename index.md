@@ -15,6 +15,8 @@ Assuming that this assembly uses a single start screw, it can take 564 steps/mL 
 
 At 200 steps/revolution, the assembly achieves microliter resolution (1.8e-3 mL released from syringe/step). At 3,200 steps/revolution, 10e-7 L resolution is possible (1.1e-4 mL released from syringe/step).
 
-The calculations I performed to obtain these values are available upon request.
+The calculations I performed to obtain these values are below (image captured from my notes):
+
+![Calculations for syringe pump resolution](/CHBE-5890-Syringe-Pump-Build/Images/Resolution-Calculation.heic)
 
 Reasons why you should build and program your own pump
