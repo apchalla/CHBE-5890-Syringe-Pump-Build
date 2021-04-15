@@ -21,4 +21,4 @@ The calculations I performed to obtain these values are below (image captured fr
 
 ## Why should you build and program your own syringe pump?
 
-If you are interested in tissue engineering, a syringe pump offers you a simplified version of an extrusion printer. This bioplotter allows you to robustly plot tissue constructs for innovative research in regenerative medicine and characterization of human physiology. Building and programming your own syringe pump (potentially with the resources on this website) allows you flexibility to design a printer to your specific biofabrication needs!
+If you are interested in tissue engineering, a syringe pump offers you a simplified version of a bioplotter. This extrusion system allows you to robustly plot tissue constructs for innovative research in regenerative medicine and characterization of human physiology. Building and programming your own syringe pump (potentially with the resources on this website) allows you flexibility to design a printer to your specific biofabrication needs!
