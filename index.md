@@ -17,7 +17,7 @@ At 200 steps/revolution, the assembly achieves microliter resolution (1.8e-3 mL 
 
 The calculations I performed to obtain these values are below (image captured from my notes):
 
-![Calculations for syringe pump resolution](/CHBE-5890-Syringe-Pump-Build/Images/Resolution-Calculation.heic)
+![Calculations for syringe pump resolution](/CHBE-5890-Syringe-Pump-Build/Images/Resolution-Calculation.png)
 
 Factors that restrict the maximum flow rate from the syringe at each pump incude limitations in the Arduino's processing speed and maximum current output. Indeed, the bottleneck in a stepper motor's operation is the time between pulses that it receives from the Arduino and other drivers; this time is not changable. The result is a limit on the amount of outflow from the syringe, as less time between pulses could result in more continuous efflux. The maximum current output of the Arduino Uno is 40 mA, and stepper motors are spec'd. by their current capacities. These factors further limit signal strength for stepping (and the associated pumping), limiting flow from the syringe.
 
