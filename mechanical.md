@@ -23,3 +23,5 @@ Fabricated pieces in the assembly included the stepper motor mount, plunger driv
 ## Fusion 360 Model
 
 <iframe src="https://vanderbilt426.autodesk360.com/shares/public/SH56a43QTfd62c1cd968e70ee631b59cf0f6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Pictures of Mechanical Assembly
