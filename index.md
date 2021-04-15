@@ -9,7 +9,7 @@
 
 The assembly that I describe on the pages above can accomodate a syringe with the dimensions in the image below, and the program that I provide in "Code" specifies 200 steps/revolution of the stepper motor. A bill of materials for the syringe pump provides further material specifications and is available on the "Mechanical" page.
 
-
+![Specifications for syringe housed by our assembly](/CHBE-5890-Syringe-Pump-Build/Images/Syringe-Specs.png)
 
 Assuming that this assembly uses a single start screw, it can take 564 steps/mL when its stepper motor is operating at 200 steps/revolution. Our assembly is also capable of microstepping, with the stepper motor accomodating 3,200 steps/revolution. In this case, 9,029 steps/mL are possible.
 
