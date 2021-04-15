@@ -28,7 +28,7 @@ Fabricated pieces in the assembly included the stepper motor mount, plunger driv
 
 As I am studying remotely, Perry provided me with the following image (taken dorsally) of the assembly we built together. Perry assembled the syringe pump in the classroom, while we chatted about the assignment over Zoom; he also answered my questions about the assembly process.
 
-![Dorsal view of syringe pump assembly with connected wiring](/CHBE-5890-Syringe-Pump-Build/Images/Assembly-and Wiring-from-Perry.HEIC)
+![Dorsal view of syringe pump assembly with connected wiring](/CHBE-5890-Syringe-Pump-Build/Images/Assembly-and Wiring-from-Perry.heic)
 
 I saved other images of the mechanical assembly as screenshots that I took from Zoom; however, as these images are of understandably lower quality than that above, I also include visualiations of my Fusion 360 model. The first image below is anterolateral, and the second image is a lateral view:
 
